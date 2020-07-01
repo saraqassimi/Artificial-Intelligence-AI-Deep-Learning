@@ -1,4 +1,4 @@
-# Introduction-to-Artificial-Intelligence-AI-Deep-Learning
+# Introduction to Artificial Intelligence (AI) & Deep Learning
 
 ### Highly Practical Data Science Projects:
 

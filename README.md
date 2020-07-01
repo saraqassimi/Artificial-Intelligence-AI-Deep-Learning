@@ -4,6 +4,6 @@
 
 -Introducing the theory behind Machine Learning, Neural Networks and Deep Learning (ANN, DNN, CNN) 
 
--Practicing Jupyter Notebooks for implementing Data Science in Python
+-Implementing Data Science uwing Python with Jupyter Notebooks
 
 -Mastering the basics of deep learning framework PyTorch 

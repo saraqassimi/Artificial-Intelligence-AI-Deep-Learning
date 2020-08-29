@@ -7,3 +7,5 @@
 -Implementing Data Science using Python with Jupyter Notebooks
 
 -Mastering the basics of deep learning framework PyTorch 
+
+-Implementing Web Scraping in Python with BeautifulSoup
